@@ -1,5 +1,5 @@
 import React from 'react';
-
+// this will need to be portfolio... have cards with magus opus and minorus opus
 export default function Blog() {
   return (
     <div>

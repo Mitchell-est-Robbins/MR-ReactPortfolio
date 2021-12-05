@@ -1,5 +1,5 @@
 import React from 'react';
-
+// probably delete or make it info that isn't main... so like hobbies and educational history 
 export default function About() {
   return (
     <div>

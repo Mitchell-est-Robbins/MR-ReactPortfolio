@@ -1,4 +1,5 @@
 import React from 'react';
+// have links to resume, gihub, linkdin 
 
 export default function Contact() {
   return (

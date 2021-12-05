@@ -1,5 +1,6 @@
 import React from 'react';
-
+// picture of me and a blurb about myself...
+// also should include my languages
 export default function Home() {
   return (
     <div>
