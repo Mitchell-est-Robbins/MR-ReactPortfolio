@@ -1,4 +1,3 @@
-import { ICONS } from "jest-util/build/specialChars";
 import React from "react";
 import { Row, Col, } from 'react-bootstrap';
 import Github from "./images/github-3.svg"
