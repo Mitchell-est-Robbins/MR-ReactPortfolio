@@ -1,9 +1,11 @@
 import React from 'react';
+import { Col } from 'react-bootstrap';
 // probably delete or make it info that isn't main... so like hobbies and educational history 
 export default function About() {
   return (
     <div>
-      <h1>About Page</h1>
+      <Col><h1 className= "text-center"> A bit about me </h1> </Col>
+
       <p>
         Nunc pharetra finibus est at efficitur. Praesent sed congue diam.
         Integer gravida dui mauris, ut interdum nunc egestas sed. Aenean sed

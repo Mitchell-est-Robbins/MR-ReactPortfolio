@@ -1,10 +1,12 @@
 import React from 'react';
+import { Col } from 'react-bootstrap';
 // have links to resume, gihub, linkdin 
 
 export default function Contact() {
   return (
     <div>
-      <h1>Contact Page</h1>
+      <Col><h1 className= "text-center"> How to reach out? </h1> </Col>
+
       <p>
         Integer cursus bibendum sem non pretium. Vestibulum in aliquet sem, quis
         molestie urna. Aliquam semper ultrices varius. Aliquam faucibus sit amet

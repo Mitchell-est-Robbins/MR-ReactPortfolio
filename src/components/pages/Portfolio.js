@@ -8,12 +8,13 @@ import Mini2 from "../images/mini2.png";
 import Mini3 from "../images/mini3.jpg";
 import mini4 from "../images/mini4.png";
 import Mini5 from "../images/mini5.jpg";
+import { Col } from 'react-bootstrap';
 
 // this will need to be portfolio... have cards with magus opus and minorus opus
 export default function Portfolio() {
   return (
      <div>
-  
+      <Col><h1 className= "text-center"> My Portfolio </h1> </Col>
       <div className="card" >
         <div className="row no-gutters">
           <div className="col-md-8">
