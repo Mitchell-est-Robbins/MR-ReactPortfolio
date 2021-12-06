@@ -14,12 +14,13 @@ import { Col } from 'react-bootstrap';
 export default function Portfolio() {
   return (
      <div>
-      <Col><h1 className= "text-center"> My Portfolio </h1> </Col>
+      <Col><h1 className= "text-center"> Where the Magic Happens</h1> </Col>
       <div className="card" >
         <div className="row no-gutters">
           <div className="col-md-8">
             
-              <Card.Img src={Main1} />
+              <Card.Img src={Main1}  />
+              
           </div>
           <div className="col-md-4">
             <div className="card-body">
