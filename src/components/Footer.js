@@ -4,12 +4,13 @@ import Github from "./images/github-3.svg"
 import Linkdin from "./images/linkedin-3.svg"
 import Resume from "./images/cv-4.svg"
 import email from "./images/email-2.svg"
+import './css/App.css'
 
 function Footer(){
     return(
         <div>
 {/* footer here */}
-        <Row className='justify-content-center text-center' xs="auto">
+        <Row className='justify-content-center color1' xs="auto">
         
         <Col >
         <a href= "https://github.com/Mitchell-est-Robbins" >

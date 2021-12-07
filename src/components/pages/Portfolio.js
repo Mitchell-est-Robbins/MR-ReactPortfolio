@@ -1,6 +1,6 @@
 import React from 'react';
 import "bootstrap/dist/css/bootstrap.min.css"
-import { Card } from 'react-bootstrap';
+import { Card, Col } from 'react-bootstrap';
 // import SkullnBone from "../images/skullbones.jpg"
 import Main1 from "../images/main1.png";
 import Mini1 from "../images/mini1.png";
@@ -8,7 +8,7 @@ import Mini2 from "../images/mini2.png";
 import Mini3 from "../images/mini3.jpg";
 import mini4 from "../images/mini4.png";
 import Mini5 from "../images/mini5.jpg";
-import { Col } from 'react-bootstrap';
+
 
 // this will need to be portfolio... have cards with magus opus and minorus opus
 export default function Portfolio() {
