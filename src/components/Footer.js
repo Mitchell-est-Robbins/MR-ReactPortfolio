@@ -1,7 +1,7 @@
 import React from "react";
 import { Row, Col, } from 'react-bootstrap';
 import Github from "./images/github-3.svg"
-import Linkdin from "./images/linkedin-3.svg"
+import Linkedin from "./images/linkedin-3.svg"
 import Resume from "./images/cv-4.svg"
 import email from "./images/email-2.svg"
 import './css/App.css'
@@ -19,7 +19,7 @@ function Footer(){
         </Col>
         <Col >
         <a href= "https://www.linkedin.com/in/mrmitchellrobbins/" >
-            <img src={Linkdin} alt="Linkdin icon and link"></img>
+            <img src={Linkedin} alt="Linkdin icon and link"></img>
         </a>
         </Col>
         <Col >
