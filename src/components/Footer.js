@@ -3,6 +3,7 @@ import { Row, Col, } from 'react-bootstrap';
 import Github from "./images/github-3.svg"
 import Linkdin from "./images/linkedin-3.svg"
 import Resume from "./images/cv-4.svg"
+import email from "./images/email-2.svg"
 
 function Footer(){
     return(
@@ -23,6 +24,11 @@ function Footer(){
         <Col >
         <a href= "https://my.indeed.com/p/mitchellr-czg7i0c" >
             <img src={Resume} alt="Resume icon and link"></img>
+        </a>
+        </Col>
+        <Col >
+        <a href= "mailto:mitchell.est.robbins@gmail.com" >
+            <img src={email} alt="Email icon and link"></img>
         </a>
         </Col>
         </Row>

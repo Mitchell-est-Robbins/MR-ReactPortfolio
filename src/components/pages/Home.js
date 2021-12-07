@@ -10,9 +10,9 @@ export default function Home() {
     return (
       <div>
 
-        <Col><h2 className= "text-center"> BEHOLD! It is I </h2> 
+        <Row><h2 className= "text-center"> BEHOLD! It is I </h2> 
         
-        </Col>
+        </Row>
 
 
       <div className="card" >
