@@ -23,7 +23,8 @@ function Footer(){
         </a>
         </Col>
         <Col >
-        <a href= "https://my.indeed.com/p/mitchellr-czg7i0c" >
+        {/* <a href= "https://my.indeed.com/p/mitchellr-czg7i0c" >  =========OLD RESUME W/Indeed*/}
+        <a href= "https://drive.google.com/file/d/1j7tqn3HARKqVeWUtx-65yAbSB1qQO8En/view?usp=sharing" >
             <img src={Resume} alt="Resume icon and link"></img>
         </a>
         </Col>
