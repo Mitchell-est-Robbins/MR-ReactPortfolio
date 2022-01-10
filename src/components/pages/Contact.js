@@ -14,7 +14,7 @@ function Form() {
   // We are also setting their initial values to an empty string
   const [email, setEmail] = useState('');
   const [userName, setUserName] = useState('');
-  const [password, setPassword] = useState('');
+  // const [password, setPassword] = useState('');
   const [errorMessage, setErrorMessage] = useState('');
 
   const handleInputChange = (e) => {
