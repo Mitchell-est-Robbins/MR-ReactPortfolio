@@ -3,6 +3,7 @@ import "bootstrap/dist/css/bootstrap.min.css"
 import { Card, Col } from 'react-bootstrap';
 // import SkullnBone from "../images/skullbones.jpg"
 import Main1 from "../images/main1.png";
+import Main2 from "../images/main2.png";
 import Mini1 from "../images/mini1.png";
 import Mini2 from "../images/mini2.png";
 import Mini3 from "../images/mini3.jpg";
@@ -13,13 +14,43 @@ import Mini5 from "../images/mini5.jpg";
 // this will need to be portfolio... have cards with magus opus and minorus opus
 export default function Portfolio() {
   return (
-     <div>
-      <Col><h1 className= "text-center"> Where the Magic Happens</h1> </Col>
+    <div>
+      {/* header */}
+      <Col><h1 className="text-center"> Where the Magic Happens</h1> </Col>
+      <br/>
+      {/* cards========================= */}
+      <div className="card" >
+        <div className="row no-gutters">
+          <div className="col-md-8">
+
+              <Card.Img src={Main1} />
+          </div>
+          <div className="col-md-4">
+            <div className="card-body">
+              <h1 className="card-title">JESTER</h1>
+              <p className="card-text">
+              This is a full stack React App with GraphQL on a MongoDB database. It is a pseudo social media app centered around picture uploading to match a challenge criteria. It is still a work in progress. It currently has: login/logout functionality, picture (URL) functionality, and likes tracked on submissions. 
+              <br/>
+              <br/>
+              To Test:
+              login: me@me.com || password: 12345678
+              </p>
+              <br/>
+              <p className="card-text">
+                <a className="text-muted" href= "http://jesterapp.herokuapp.com/">Deployed link     |  </a>
+                <a className="text-muted" href= "https://github.com/WTRIII/jester">  Repo</a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      {/* new card ====================== */}
       <div className="card" >
         <div className="row no-gutters">
           <div className="col-md-8">
             
-              <Card.Img src={Main1}  />
+              <Card.Img src={Main2}  />
               
           </div>
           <div className="col-md-4">
@@ -43,6 +74,7 @@ export default function Portfolio() {
           <div className="col-md-8">
             
               <Card.Img src={Mini1} />
+
           </div>
           <div className="col-md-4">
             <div className="card-body">
