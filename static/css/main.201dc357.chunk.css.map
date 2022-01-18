@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/css/App.css"],"names":[],"mappings":"AAAA,QACI,wBAEJ,CAEA,QACI,qBACJ","file":"main.201dc357.chunk.css","sourcesContent":[".color1{\r\n    background-color: rgb(233, 233, 233);\r\n    \r\n}\r\n\r\n.color2{\r\n    background-color: rgb(0, 0, 0)\r\n}"]}
