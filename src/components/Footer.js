@@ -25,7 +25,7 @@ function Footer(){
         <Col >
         {/* <a href= "https://my.indeed.com/p/mitchellr-czg7i0c" >  =========OLD RESUME W/Indeed*/}
         {/* <a href= "https://drive.google.com/file/d/1j7tqn3HARKqVeWUtx-65yAbSB1qQO8En/view?usp=sharing" > */}
-        <a href= "https://drive.google.com/file/d/1Fy16OeugqXJWYYRzMryd3-DjDNPthCak/view?usp=sharing" >
+        <a href= "https://drive.google.com/file/d/1JUIP1XvK1t7S_Y4eDENVWiBxLW6Lk1kG/view?usp=sharing" >
    
             <img src={Resume} alt="Resume icon and link"></img>
         </a>
