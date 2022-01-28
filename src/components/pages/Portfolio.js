@@ -84,7 +84,7 @@ export default function Portfolio() {
               </p>
               <br/>
               <p className="card-text">
-                <a className="text-muted" href= "https://mitchell-est-robbins.github.io/Retail-Therapy/">Deployed link     |  </a>
+                <a className="text-muted" href= "">Deployed link     |  </a>
                 <a className="text-muted" href= "https://github.com/Mitchell-est-Robbins/Retail-Therapy">  Repo</a>
               </p>
             </div>
