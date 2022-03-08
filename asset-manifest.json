@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/MR-ReactPortfolio/static/css/main.201dc357.chunk.css",
-    "main.js": "/MR-ReactPortfolio/static/js/main.f5329516.chunk.js",
-    "main.js.map": "/MR-ReactPortfolio/static/js/main.f5329516.chunk.js.map",
+    "main.js": "/MR-ReactPortfolio/static/js/main.83c6157a.chunk.js",
+    "main.js.map": "/MR-ReactPortfolio/static/js/main.83c6157a.chunk.js.map",
     "runtime-main.js": "/MR-ReactPortfolio/static/js/runtime-main.42e7faa3.js",
     "runtime-main.js.map": "/MR-ReactPortfolio/static/js/runtime-main.42e7faa3.js.map",
     "static/css/2.0a9ec390.chunk.css": "/MR-ReactPortfolio/static/css/2.0a9ec390.chunk.css",
@@ -16,7 +16,7 @@
     "static/media/email-2.0e360d89.svg": "/MR-ReactPortfolio/static/media/email-2.0e360d89.svg",
     "static/media/github-3.197212f0.svg": "/MR-ReactPortfolio/static/media/github-3.197212f0.svg",
     "static/media/linkedin-3.27a3f479.svg": "/MR-ReactPortfolio/static/media/linkedin-3.27a3f479.svg",
-    "static/media/main1.3696f1fb.png": "/MR-ReactPortfolio/static/media/main1.3696f1fb.png",
+    "static/media/main1.6847b07f.png": "/MR-ReactPortfolio/static/media/main1.6847b07f.png",
     "static/media/main2.430b2474.png": "/MR-ReactPortfolio/static/media/main2.430b2474.png",
     "static/media/mini1.bb750f18.png": "/MR-ReactPortfolio/static/media/mini1.bb750f18.png",
     "static/media/mini2.f52c3a70.png": "/MR-ReactPortfolio/static/media/mini2.f52c3a70.png",
@@ -30,6 +30,6 @@
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.299cff4f.chunk.js",
     "static/css/main.201dc357.chunk.css",
-    "static/js/main.f5329516.chunk.js"
+    "static/js/main.83c6157a.chunk.js"
   ]
 }
