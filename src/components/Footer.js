@@ -23,14 +23,6 @@ function Footer(){
         </a>
         </Col>
         <Col >
-        {/* <a href= "https://my.indeed.com/p/mitchellr-czg7i0c" >  =========OLD RESUME W/Indeed*/}
-        {/* <a href= "https://drive.google.com/file/d/1j7tqn3HARKqVeWUtx-65yAbSB1qQO8En/view?usp=sharing" > */}
-        <a href= "https://drive.google.com/file/d/1FCnP4TpZp2OYcEW9EG_MISp8cDF00sm7/view?usp=sharing" >
-   
-            <img src={Resume} alt="Resume icon and link"></img>
-        </a>
-        </Col>
-        <Col >
         <a href= "mailto:mitchell.est.robbins@gmail.com" >
             <img src={email} alt="Email icon and link"></img>
         </a>
