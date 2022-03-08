@@ -58,6 +58,10 @@ export default function Portfolio() {
               <h1 className="card-title">Book-It! Bookshelf</h1>
               <p className="card-text">
                 A full stack; bookshelf inventory management system with a MySQL Database, Log-in and log-out functionality. With individually configurable user generated collections.
+              <br/>
+              <br/>
+              To Test:
+              login: me@me.com || password: 12345678
               </p>
               <br/>
               <p className="card-text">
